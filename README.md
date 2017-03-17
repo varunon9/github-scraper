@@ -14,8 +14,8 @@ Though github provides APIs for the same, I wrote this for learning purposes.
 
 #### Screenshots
 
-1. We need DOM details to extract informatio- ![Inspect element] (./screenshots/inspect-element.png) 
-2. Output on Console- ![Output] (./screenshots/output-data.png) 
+1. We need DOM details to extract informatio- ![Inspect element](./screenshots/inspect-element.png) 
+2. Output on Console- ![Output](./screenshots/output-data.png) 
 
 #### Working
 We have 3 steps in scraping-
